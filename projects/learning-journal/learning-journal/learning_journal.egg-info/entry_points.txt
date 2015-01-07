@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = learningjournal:main
+      [console_scripts]
+      initialize_learning-journal_db = learningjournal.scripts.initializedb:main
+      
