@@ -21,3 +21,7 @@ $ virtualenv [options] <ENV>
 - *Model* => Logic Between Controller and Data / Database
 - *Controller* => Middleman between Model and Views
 - *Views* => Presentation layer
+
+4) *Pyramid Framework*
+
+- New project 
