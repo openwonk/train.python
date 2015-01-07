@@ -11,3 +11,7 @@ So your projects don't cross wires (that is, package "wires")...
 ```shell
 $ virtualenv [options] <ENV>
 ```
+
+3) *MVC Pattern*
+	- Division of Concerns
+	- Functional and Conceptual
