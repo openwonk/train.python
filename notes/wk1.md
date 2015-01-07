@@ -13,5 +13,10 @@ $ virtualenv [options] <ENV>
 ```
 
 3) *MVC Pattern*
+
 	- Division of Concerns
 	- Functional and Conceptual
+
+	Model => Logic Between Controller and Data / Database
+	Controller => Middleman between Model and Views
+	Views => Presentation layer
