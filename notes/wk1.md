@@ -18,7 +18,7 @@ $ virtualenv [options] <ENV>
 
 - Division of Concerns
 - Functional and Conceptual
-
-Model => Logic Between Controller and Data / Database
-Controller => Middleman between Model and Views
-Views => Presentation layer
+<br>
+- Model => Logic Between Controller and Data / Database
+- Controller => Middleman between Model and Views
+- Views => Presentation layer
