@@ -1,0 +1,6 @@
+touch README.md;
+git init;
+git add README.md;
+git commit -m "create repository";
+git remote add origin https://github.com/openwonk/uw.python.git;
+git push -u origin master;
